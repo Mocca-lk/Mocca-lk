@@ -35,5 +35,5 @@ I am a Software Engineering student at **ETEP**, with a technical background in 
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mocca-lk&show_icons=true&theme=tokyonight)
+![Your GitHub stats]([https://github-readme-stats.vercel.app/api?username=Mocca-lk&show_icons=true&theme=tokyonight](https://github.com/Mocca-lk/Mocca-lk/edit/master/README.md))
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mocca-lk&layout=compact&theme=tokyonight)
