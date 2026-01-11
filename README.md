@@ -1,4 +1,4 @@
-# Hi, I'm [Seu Nome]! 👋
+# Hi, I'm Mariana! 👋
 
 ### 👩‍💻 Software Engineering Student | ADS Technician | Python & SQL Enthusiast
 
@@ -29,8 +29,8 @@ I am a Software Engineering student at **ETEP**, with a technical background in 
 ---
 
 ### 📬 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_PARA_SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-gomes-dev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marianna.gomez2013@gmail.com)
 
 ---
 
