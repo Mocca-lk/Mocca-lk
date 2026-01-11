@@ -32,8 +32,4 @@ I am a Software Engineering student at **ETEP**, with a technical background in 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-gomes-dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marianna.gomez2013@gmail.com)
 
----
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github.com/Mocca-lk/Mocca-lk/edit/master/README.md)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mocca-lk&layout=compact&theme=tokyonight)
